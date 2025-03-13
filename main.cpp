@@ -11,6 +11,6 @@ int main() {
     cin >> b;
     cout << endl;
 
-    cout << "A + B = " << a+b ;
+    cout << "A - B = " << a-b ;
     return 0;
 }
